@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin: 10px;
+    height: 500px;
+
+}
+.card-header{
+    background-color: black;
+    color: bisque;
+}
+h6{
+    background-color: antiquewhite;
+}
+button{
+    justify-content: center;
+    align-items: center;
+}
